@@ -12,7 +12,7 @@ Adding another note ==>
 
 After Adding ==>
 
-![](images/i3_L1.png)
+![](images/i3_LI.jpg)
 
 After Deleting "Binary Search" Note ==>
 

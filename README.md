@@ -16,7 +16,7 @@ After Adding ==>
 
 After Deleting "Binary Search" Note ==>
 
-![](images/i4.png)
+![](images/i5.png)
 
 
 
